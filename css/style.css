@@ -50,7 +50,7 @@ body {
   justify-content: space-around;
   align-items: center ;
   margin-top: 36px;
-  animation: back_color2 50000ms ease-in forwards;
+  animation: back_color2 40000ms ease-in forwards;
 }
 
 @keyframes back_color1 {
@@ -516,7 +516,7 @@ body {
     background-color: #ffffff; /* Starting color */
   }
   to {
-    background-color: #36393B; /* Ending color */
+    background-color: #6a041d; /* Ending color */
   }
 }
 
@@ -663,7 +663,7 @@ i {
 }
 
 #ico26 {
-  color: #C9D6DF;
+  color: #6a041d;
 }
 
 #ico27 {
